@@ -1,0 +1,7 @@
+# Section 41C
+Compounding of offences.
+41C. (1) The Director may, with the consent in writing of the Minister, compound any offence committed by any person under this Enactment or any regulations made under this Enactment, by accepting from the person reasonably suspected of having committed such offence a sum of money not exceeding fifty percent of the maximum fine for that offence, within the time specified in the offer.
+(2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted.
+(3) If the amount specified in the offer under subsection (1) is not paid within the time specified in the offer or within such extended period as the Director may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made.
+(4) Where an offence has been compounded under subsection (1) no prosecution shall be instituted after that in respect of the offence against the person to whom the offer to compound was made and where possession has been taken of any book, record, document or any other thing, such book, record, document or any other thing may be released subject to such conditions as may be imposed in accordance with the conditions of the compound.
+(5) The amounts received under this section shall be paid into and form part of the State Consolidated Fund. PART XI RULES

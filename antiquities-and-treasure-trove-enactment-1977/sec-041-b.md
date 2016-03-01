@@ -1,0 +1,4 @@
+# Section 41B
+General Penalty.
+41B. (1) Any person who commits an offence under this Enactment or any regulations made under this Enactment where no penalty is expressly provided shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and for a second or subsequent offence he shall be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for term not exceeding ten years or to both.
+(2) Where the offence committed resulted in damage to an antiquity or the demolition or destruction of an ancient monument or historical site, the Court may order the person to pay, in addition to any penalty that may be imposed under subsection (1), the market value of the antiquity or the costs of the repair, restoration or reconstruction of the monument or site.

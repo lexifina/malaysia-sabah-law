@@ -1,0 +1,6 @@
+# Section 36I
+Temporary return and list of things seized.
+36I. (1) Where anything has been seized under this Enactment, the Director may temporarily return the things seized to the owner thereof or to the person from whose possession, custody or control it was seized, subject to such terms and conditions as the Director may impose and subject, in any case, to sufficient security being furnished to the satisfaction of the Director that the things seized shall be surrendered to him on demand and that the said terms and conditions, if any, shall be complied with.
+(2) Where any seizure is made under this Enactment, an enforcement officer or police officer making the seizure shall prepare a list of every object, material, book, document or other thing seized and of the place in which it is found and shall sign the list.
+(3) The list prepared in accordance with subsection (2) shall be served on the owner, or on the person from whom the object, material, book, document or other thing was seized as soon as possible and shall be signed by such owner or person.
+(4) Where the seizure is made in or from any place or premises which is unoccupied, enforcement officer or police officer making the seizure shall whenever possible post a list of the things seized conspicuously at such place or premises.

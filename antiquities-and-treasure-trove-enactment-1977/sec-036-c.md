@@ -1,0 +1,5 @@
+# Section 36C
+Powers of enforcement officer or police officer in investigation.
+36C. (1) Every enforcement officer or police officer making an investigation under this Enactment shall have the power to require information, whether orally or in writing, from any person acquainted or supposed to be acquainted with the facts and circumstances of the case under investigation.
+(2) Any person who, on being required by an enforcement officer or police officer to give information under this section, refused to comply with such requirement or furnishes as true any information which he knows or has reason to be false commits an offence.
+(3) Where any information furnished by a person to an enforcement officer or police officer is proved to be untrue or incorrect in whole or in part, it shall be no defence to allege that the information or any part of the information was misinterpreted, or furnished inadvertently or without criminal or fraudulent intent.

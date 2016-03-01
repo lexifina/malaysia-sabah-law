@@ -1,0 +1,3 @@
+# Section 41A
+Offences committed by body corporate.
+41A. Where a person charged with an offence under this Enactment or any regulations made thereunder is a body corporate, every person who, at the time of the commission of such offence was a managing director, manager or other similar officer of such body corporate, may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence charged, every such managing director, manager or officer shall also be liable to the same penalty as the body corporate, unless he proves that the offence was committed without his knowledge, consent or connivance or that he took reasonable precautions to prevent its commission.

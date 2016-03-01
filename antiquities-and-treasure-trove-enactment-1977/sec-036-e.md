@@ -1,0 +1,14 @@
+# Section 36E
+Search by warrant.
+36E. (1) If it appears to a Magistrate, upon written information and after such inquiry as he considers necessary, that there is reasonable cause to believe that an offence under this Enactment has been committed or is being committed on or in respect of any premises, the Magistrate may issue a warrant authorising an enforcement officer or police officer named in that warrant to enter such premises with such assistance as may be required, and if necessary by force.
+(2) A warrant issued under subsection (1) may authorise the enforcement officer or police officer to search the premises for, and to seize and remove from the premises –
+(a) any object, material, book, document or other thing in respect of which an offence has or is suspected to have been committed; and
+(b) any object, material, book, document or other thing that is reasonably believed to furnish evidence of the commission of the offence.
+(3) An enforcement officer or police officer conducting a search under subsection (1) may, if in his opinion it is reasonably necessary to do so for the purpose of an investigating the offence, search any person who is in, or on, such premises and detain such person and remove him to such place as may be necessary to facilitate such search.
+(4) An enforcement officer or police officer making a search of a person under subsection (3) may seize or take possession of any object, material, book, document or other thing found on the person for the purpose of the investigation being carried out by the enforcement officer or police officer.
+(5) Where, by reason of their nature, size or amount, it is not practicable to remove any object, material, book, document or other thing seized under this section, the enforcement officer or police officer making the seizure shall, by all means, seal such object, material, book, document or other thing in the premises or container in which they are found.
+(6) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (5) or removes any object, material, book, document or other thing under seal, or attempts to do so commits an offence and shall on conviction be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.
+(7) Whenever it is necessary so to do, an enforcement officer or police officer exercising any powers under subsection (1) may –
+(a) break open any outer or inner door or window of any premises and enter into the premises, or otherwise forcibly enter into the premises and every part of the premises;
+(b) remove by force any obstruction to such entry, search, seizure, detention or removal as he is empowered to effect; or
+(c) detain any person found on any premises searched under subsection 91) until such premises have been searched.
