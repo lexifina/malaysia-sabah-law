@@ -1,0 +1,9 @@
+# Schedule
+SCHEDULE
+[Section 2] DEFINITION OF TIMBER
+Timber Products
+Assembled parquet panels Bamboo Bamboo shoot Bark Barrels Battenboard Bio-composite product Blockboard Box pallets Briquette Broom Brush bodies and handles Cable drums Cases of jewellery or cutlery and similar articles Casks Cement bonded particle board Timber Products - (cont.)
+Charcoal Coconut trunk Coffin/Casket Cooperage Cordwood Core veneer Cork, Bark based product Crate Densified wood Door Door frame Doorskin Dowel Drum Dunnage Dye Fibreboard Flakeboard Flitch Fruit Fuel wood Furniture Furniture part Gaharu oil Gaharu wood/Sandalwood/Agarwood Glued laminated timber Ground wood (wood wool, wood flour) Handicraft Hardboard Hewn timber High density fibreboard Honey Hoopwood Timber Products - (cont.)
+Insecticide Joinery Joss-stick Laminated board Laminated post Laminated veneer lumber Latex Loardboard Log Low density fibreboard Lumber core Medium density fibreboard Moulding Nibong trunk Oil Palm trunk Oriented strand board Other thing of wood Packing block Packing cases Pallet Pallet collars Paper Particle block Particle board Pickets/Stakes Picture frame Piles Planed timber Plywood Pole Prefabricated buildings, of wood Railway sleeper Timber Products - (cont.)
+Rattan Resin Rotary cut veneer Rubberwood Sap sugar Sawdust Sawn timber Scented wood (Gaharu) Scrap Seed Shakes Shingle Skid Sliced veneer Statuettes and other ornaments, of wood Tableware and kitchenware, of wood Thatching Tools Tubs Turnery Vats Veneered panel Waferboard Window Window frame Wood chip Wood marquetry and inlaid wood Wood particle Wood pulp Wood residue Wood vinegar Wood wool (shaving) Timber Products - (cont.)
+Woodchipboard Wooden box Wooden fence Wooden flooring Wooden handle Wooden lattice Wooden sticks Wooden toy Woodplastic composite
