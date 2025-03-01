@@ -1,0 +1,4 @@
+# Section 38C
+General penalty
+38C. (1) Any person who commits an offence under this Enactment for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding thirty thousand ringgit or to imprisonment for a term not exceeding two years or to both, and in the case of a continuing offence, to a further fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction.
+(2) Any body corporate which commits an offence under this Enactment for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit, and in the case of a continuing offence, to a further fine not exceeding five thousand ringgit for every day or part of a day during which the offence continues after conviction.

@@ -1,0 +1,4 @@
+# Section 37G
+Power to seal premises
+37G. (1) If, by reason of its nature, size or amount, it is not practicable to remove any product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing seized under this Enactment, the authorized officer shall seal the premise in which such product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing is found.
+(2) Any person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (1) or removes the product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing seized under seal or attempts to do so, commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both.

@@ -1,0 +1,16 @@
+# Section 37E
+Search and seizure with warrant
+37E. (1) If it appears to a Magistrate, upon written information on oath from the authorized officer and after such inquiry as he considers necessary, that there is reasonable cause to believe that –
+(a) any premises, product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing have been used or are about to be used for; or
+(b) there is in any premises, evidence necessary to the conduct of an investigation into,
+the commission of an offence under this Enactment, the Magistrate may issue a warrant authorizing any authorized officer named in the warrant, to enter the premises at any reasonable time by day or night, and with or without assistance, and if need be by force.
+(2) Without affecting the generality of subsection (1), the warrant issued by the Magistrate may authorize the authorized officer to –
+(a) search and seize any product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing;
+(b) inspect, make copies of, or extracts from, any book, record, document, computerized data or other thing;
+(c) take possession of, and remove from the premises, any product, equipment, device, appliance, material, receptacle, package, conveyance, book, record, document, computerized data or other thing so seized and detain it for such period as may be necessary; or
+(d) search any person who is in, or on, such premises and for the purpose of the search, detain the person and remove him to such place as may be necessary to facilitate the search, and seize and detain any product, article, book, record or document found on the person.
+(3) An authorized officer may, in the exercise of his powers under this section, if it is necessary so to do -
+(a) break open any outer or inner door of the premises or any fence, enclosure, gate or other obstruction to the premises, in order to effect entry into such premises;
+(b) remove by force any obstruction to entry, search, seizure or removal as he is empowered to effect under this section; and
+(c) detain any person found in the premises until the search is completed.
+(4) No person shall be searched except by another person of the same gender, and such search shall be conducted with strict regard to decency.
