@@ -1,0 +1,51 @@
+{
+ "parts": {
+  "10-constitution-01.json": {
+   "acts": [
+    "constitution"
+   ],
+   "sha256": "f41677d3da8209fa3a9b5cfb5bae601663a85fa421da8abe62dea0fc32000d5a"
+  },
+  "20-laws-01.json": {
+   "acts": [
+    "administrative-divisions-ordinance-cap-167-vol-vii",
+    "agricultural-produce-board-enactment-1981",
+    "agriculture-fertilizer-enactment-2025",
+    "amanah-rakyat-negeri-sabah-enactment-1990",
+    "animal-enactment-2015",
+    "animal-welfare-enactment-2015",
+    "antiquities-and-treasure-trove-enactment-1977",
+    "application-of-laws-ordinance-cap-6-vol-i",
+    "civil-list-enactment-1963",
+    "community-development-leaders-enactment-1981",
+    "control-of-islamic-religious-schools-enactment-1991",
+    "country-land-utilization-ordinance-1962",
+    "credit-corporation-enactment-1981",
+    "delegation-of-powers-enactment-1963",
+    "dogs-ordinance-1960",
+    "drainage-and-irrigation-ordinance-1956",
+    "electronic-government-activities-enactment-2014",
+    "emblems-and-names-prevention-of-improper-use-enactment-1979",
+    "energy-commission-of-sabah-enactment-2023",
+    "environment-protection-enactment-2002",
+    "fatwa-enactment-2004",
+    "federal-territory-of-labuan-enactment-1984",
+    "feed-enactment-2021",
+    "fees-enactment-1981",
+    "forest-timber-enactment-2015",
+    "gas-supply-enactment-2023",
+    "general-loan-and-stock-ordinance-cap-51-vol-ii",
+    "government-trust-funds-enactment-1964",
+    "guardianship-of-infants-ordinance-cap-54-vol-ii",
+    "housing-and-town-development-authority-enactment-1981",
+    "inquiry-commissions-enactment-1981",
+    "korporasi-pembangunan-desa-sabah-enactment-1981",
+    "kota-kinabalu-municipal-council-change-of-status-enactment-1978",
+    "kudat-town-board-change-of-status-enactment-1982",
+    "labuan-municipal-council-change-of-status-enactment-1981"
+   ],
+   "sha256": "46b166a4f35f02db01f41eb094e181580a64e4c3a18e42014a5af4dd6952113c"
+  }
+ },
+ "schema": 1
+}
