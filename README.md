@@ -6,7 +6,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 ## What this repository holds
 
-**Current text only, not yet a history.** Sabah Lawnet publishes each law as one PDF stamped "FOR REFERENCE ONLY (<month> <year>)", with no earlier consolidated text. So each law is one commit holding its whole text as of that month, credited to the State Attorney-General's Chambers ("oldest version available"), not to an amending law.
+**Current text only, not yet a history.** Sabah Lawnet publishes each law as one PDF stamped "FOR REFERENCE ONLY (<month> <year>)", with no earlier consolidated text in this record. Each law has one commit holding its oldest available current text, credited to the State Attorney-General's Chambers rather than to an amending law. Each version's note states its date basis.
 
 | Folder | What |
 | --- | --- |
@@ -21,7 +21,7 @@ The Constitution comes first; the Ordinances and Enactments follow in parts of a
 
 ## Dates
 
-Each law's version is dated by the month of its "FOR REFERENCE ONLY" stamp, on the first day of that month, at noon in Kota Kinabalu. The stamp gives no day; it is the month of Lawnet's text, not the day of the last amendment.
+Version dates come from the source evidence stated in each version's note. The initial published batch used the first day of each PDF's "FOR REFERENCE ONLY" month; that stamp identifies the reference text's issue month, not the day of its latest amendment. The Legislative Assembly (Elected Members) Enactment 1965 instead uses 18 August 2016, the latest amendment's effective date printed in its PDF's List of Amendments. Dates for the initial batch have not yet been re-audited against their amendment tables. All commit times use noon in Kota Kinabalu.
 
 ## How it is built
 
@@ -39,7 +39,7 @@ The author of each commit is the publisher (the State Attorney-General's Chamber
 
 ## Limits
 
-Only the text as of each stamp's month is here: no earlier versions, and not the laws as enacted. The texts are marked "FOR REFERENCE ONLY"; the laws as published in the Sabah Government Gazette are authoritative. Footnotes are left out.
+Only one available current text of each included law is here: no earlier versions, and not the laws as enacted. The texts are marked "FOR REFERENCE ONLY"; the laws as published in the Sabah Government Gazette are authoritative. Footnotes are left out.
 
 ## Licence
 
