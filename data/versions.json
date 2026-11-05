@@ -504,6 +504,20 @@
      "sha256": "4b74bdba1c5ba3f15f952c88e15371fd21410f448d6d7a93f2f92363db0ff3b7"
     }
    ]
+  },
+  {
+   "slug": "legislative-assembly-elected-members-enactment-1965",
+   "short": "Legislative Assembly (Elected Members) Enactment 1965",
+   "title": "Legislative Assembly (Elected Members) Enactment 1965",
+   "url": "https://sagc.sabah.gov.my/?q=en/content/legislative-assembly-elected-members-enactment-1965",
+   "versions": [
+    {
+     "from": "2016-08-18",
+     "units": 3,
+     "source_url": "https://sagc.sabah.gov.my/sites/default/files/law/LegislativeAssembly%28ElectedMembers%29Enactment1965.pdf",
+     "sha256": "576541863a1f34f246ea7da98b593ebb075223e85366e6ee704e65445f081e84"
+    }
+   ]
   }
  ]
 }

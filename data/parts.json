@@ -1,5 +1,9 @@
 {
  "parts": {
+  "00-date-basis.json": {
+   "acts": [],
+   "sha256": "e2dbf1acecc1fdb99bb765aece14a80dc180b0fa1eca428db144073f018f9658"
+  },
   "10-constitution-01.json": {
    "acts": [
     "constitution"
@@ -45,6 +49,12 @@
     "labuan-municipal-council-change-of-status-enactment-1981"
    ],
    "sha256": "46b166a4f35f02db01f41eb094e181580a64e4c3a18e42014a5af4dd6952113c"
+  },
+  "20-laws-02.json": {
+   "acts": [
+    "legislative-assembly-elected-members-enactment-1965"
+   ],
+   "sha256": "577da05c2d0e58d1cb92b595d3f97c5c6305655e7f60f2c9d793097e61d9dac0"
   }
  },
  "schema": 1
