@@ -1,5 +1,7 @@
 # Sabah: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Sabah, Malaysia, which global-law reads at `malaysia/sabah/acts/`.
+
 The law of the State of Sabah (Malaysia) as a git history: the Constitution of the State of Sabah and the Sabah Ordinances and Enactments, one file per Article or section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text published by the State Attorney-General's Chambers on Sabah Lawnet.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
